@@ -2,6 +2,7 @@ package program_2_Text_Art_App;
 
 public class Text_Art_App {
 	public static void main(String[] args) {
+		//Printing out text art
 		System.out.println("     ___________    \n"
 						  +"    /           \\  \n"
 						  +"   / [] [] [] [] \\  \n"
